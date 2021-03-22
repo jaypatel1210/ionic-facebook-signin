@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "504402424186",
+    "project_id": "ionic-fb-signin",
+    "storage_bucket": "ionic-fb-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504402424186:android:1841f6d42aed42cde526c3",
+        "android_client_info": {
+          "package_name": "com.ionicfb.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504402424186-48g423vvopfhcj6pjbv7ec8n17ifl5sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ionicfb.signin",
+            "certificate_hash": "0eca0e469b8cfa0e1853a2c9d302d0707b2db195"
+          }
+        },
+        {
+          "client_id": "504402424186-75s20a4dk58in8bkmg7v530i0jsipbea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiedtN0nXaSBXMcQp2KsQvWbjn7UtxSGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504402424186-75s20a4dk58in8bkmg7v530i0jsipbea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

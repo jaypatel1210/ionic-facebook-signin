@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ionic-fb-signin": {
+      "hosting": {
+        "app": [
+          "ionic-fb-signin"
+        ]
+      }
+    }
+  }
+}

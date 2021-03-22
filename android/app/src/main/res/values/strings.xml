@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">signinfb</string>
+    <string name="title_activity_main">signinfb</string>
+    <string name="package_name">com.ionicfb.signin</string>
+    <string name="custom_url_scheme">com.ionicfb.signin</string>
+    <string name="facebook_app_id">3970741472987466</string>
+    <string name="fb_login_protocol_scheme">fb3970741472987466</string>
+</resources>
