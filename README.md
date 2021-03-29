@@ -1,6 +1,6 @@
 ## Ionic Facebook Firebase Signin  
 
--> To get started with Facebook sign in, we need to install a Capacitor plugin:  
+_To get started with Facebook sign in, we need to install a Capacitor plugin:_  
 ```
 npm install capacitor-firebase-auth
 npx cap update  
